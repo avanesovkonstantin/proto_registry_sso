@@ -1,3 +1,3 @@
-module proto_registry_sso
+module protos
 
 go 1.23.1
